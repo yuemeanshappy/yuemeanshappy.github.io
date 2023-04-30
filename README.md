@@ -1,2 +1,2 @@
-# Yue's academic website
+## Personal website
 

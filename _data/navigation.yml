@@ -1,14 +1,14 @@
 # site nagivation links
+main:
+  - title: "About"
+    url: /_pages/about/
 
-- title: "About"
-  url: https://yuemeanshappy.github.io/about/
+  - title: "Research"
+    url: /_pages/research/
 
-- title: "Research"
-  url: /research/
+  - title: "Posts"
+    url: /_pages/post/
 
-- title: "Posts"
-  url: /posts/
-
-- title: "Photo Gallery"
-  url: /photos/
+  - title: "Photo Gallery"
+    url: /_pages/photos/
 
