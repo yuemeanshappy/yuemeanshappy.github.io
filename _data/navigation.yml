@@ -8,6 +8,9 @@ main:
 
   - title: "Posts"
     url: /_pages/post/
+  
+  - title: "CV"
+    url: /_pages/cv/
 
   - title: "Photo Gallery"
     url: /_pages/photos/
