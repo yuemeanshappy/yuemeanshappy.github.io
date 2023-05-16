@@ -1,3 +1,8 @@
+---
+layout: single
+author_profile: true
+---
+
 <div class="photos">
   <!-- First Row -->
   <div class="photo">

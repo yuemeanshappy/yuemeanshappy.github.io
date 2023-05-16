@@ -1,12 +1,9 @@
 ---
 title: Yue Yang
+classes: wide
+layout: single
+author_profile: true
 ---
-<style>
-  p {
-    font-size: 14px;
-  }
-</style>
-
 updated: 05/01/2023
 
 ## Education
